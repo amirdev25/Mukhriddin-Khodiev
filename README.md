@@ -13,7 +13,7 @@ Ilova quyidagi dasturlash kurslarini o'z ichiga oladi:
 #Mern Stack 
 
 
-
+https://user-images.githubusercontent.com/99003321/163700679-e25bbe09-618f-48df-a2d8-5a94a4fba931.mp4
 
 # Hello dear users, FREE programming courses in Uzbek by Muhriddin Hodiev, one of the founders of SERIUS agency and web programmer, are in one application!
 
@@ -26,3 +26,5 @@ The application includes the following programming courses:
 # Vue Js 
 # Angular Js 
 # Mern Stack 
+
+
